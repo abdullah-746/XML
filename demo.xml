@@ -2,16 +2,16 @@
 
 <schooldata>
 
-<user>
+<user id="1" xmlns:alione="C:\Users\github\Desktop\New folder (2)\XML\demo.xml">
 <frame>hasan</frame>
-<frame>rafay</frame>
-<frame>fahad</frame>
+<lastname>rafay</lastname>
+<email>madni23@gmail.com</email>
 </user>
 
-<user>
+<user id="1" xmlns:alione="C:\Users\github\Desktop\New folder (2)\XML\demo.xml">
 <frame>hasan</frame>
-<frame>rafay</frame>
-<frame>fahad</frame>
+<lastname>rafay</lastname>
+<email>madni23@gmail.com</email>
 </user>
 
 </schooldata>
