@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<schooldata>
-
-<user id="1" xmlns:alione="C:\Users\github\Desktop\New folder (2)\XML\demo.xml">
+<schooldata 
+xmlns:alione="https://www.walmart.com/mynamespace"
+xmlns:alitwo="https://www.walmart.com/mynamespace">
+<user id="1">
 <frame>hasan</frame>
 <lastname>rafay</lastname>
 <email>madni23@gmail.com</email>
 </user>
 
-<user id="2" xmlns:alione="C:\Users\github\Desktop\New folder (2)\XML\demo.xml">
+<user id="2">
 <frame>hasan</frame>
 <lastname>rafay</lastname>
 <email>madni23@gmail.com</email>
